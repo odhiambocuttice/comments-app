@@ -6,3 +6,4 @@ live demo https://comments-app-phi.vercel.app/
 ![image](https://user-images.githubusercontent.com/43813154/198582008-5f48d00a-40cd-4071-a936-dde7911c1ca6.png)
 ![image](https://user-images.githubusercontent.com/43813154/198582069-955acff4-b7da-4967-aa0c-b7694e232584.png)
 
+![image](https://user-images.githubusercontent.com/43813154/198582158-20554ff8-dbf1-4fd9-8aaa-25899507ab93.png)
